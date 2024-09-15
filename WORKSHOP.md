@@ -1,0 +1,9 @@
+# List workshop
+
+| Index |               Title               | Link repo                                                                | Link web                                                                 | Type   | Created at | Updated at |
+|:-----:|:---------------------------------:|:-------------------------------------------------------------------------|:-------------------------------------------------------------------------|:-------|:----------:|:----------:|
+|  001  | Orchestrate Glue by Step Function | [repo_pmt_ws-001](https://github.com/tripham208/repo_pmt_ws-001)         | [repo_pmt_ws-002](https://tripham208.github.io/repo_pmt_ws-001/)         | ws-fcj |    n/a     |    n/a     |
+|  002  |          Athena workshop          | [repo_pmt_ws-002](https://github.com/tripham208/repo_pmt_ws-002)         | [repo_pmt_ws-002](https://tripham208.github.io/repo_pmt_ws-002/)         | ws-fcj |    n/a     |    n/a     |
+|  003  |         Airflow with AWS          | [repo_pmt_ws-fcj-003](https://github.com/tripham208/repo_pmt_ws-fcj-003) | [repo_pmt_ws-fcj-003](https://tripham208.github.io/repo_pmt_ws-fcj-003/) | ws-fcj |  14/09/24  |    n/a     |
+|  004  |                                   |                                                                          |                                                                          | ws-fcj |    n/a     |    n/a     |
+|  005  |                                   |                                                                          |                                                                          | ws-fcj |    n/a     |    n/a     |
